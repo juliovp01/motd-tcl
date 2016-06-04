@@ -1,0 +1,3 @@
+---
+# tasks file for juliovp01.motd-tcl
+- include: install.yml

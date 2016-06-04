@@ -1,0 +1,9 @@
+---
+#MOTD.TCL based on Mewbies.com Procedure.
+- name: MAIN | Set nice MOTD
+  hosts: target
+  vars_files:
+    - vars/main.yml
+  remote_user: root
+  tasks:
+    - include: tasks/main.yml
