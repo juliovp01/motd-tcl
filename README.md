@@ -1,7 +1,7 @@
 Ansible Satellite 6 Install
 ===========================
 
-Role to install and do configure motd-tcl
+Role to install and do configure motd-tcl. This role is based on work found at: http://www.mewbies.com/how_to_customize_your_console_login_message_tutorial.htm
 
 Requirements
 ------------
